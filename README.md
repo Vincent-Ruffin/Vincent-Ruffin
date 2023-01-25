@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vincent-Ruffin
 - 👀 I’m interested in web dev, blockchain,data sciense...
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on different project
+- 🌱 I’m currently learning javascript and php
+- 💞️ I’m looking to collaborate on "24h du code"
 - 📫 How to reach me : twitter @vincentruffin
 
 <!---
